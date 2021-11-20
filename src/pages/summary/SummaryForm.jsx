@@ -26,7 +26,7 @@ export default function SummaryForm(){
 
     const popover = (
         <Popover id="popover-basic">
-          <Popover.Body>No ice cream will be actually delivered</Popover.Body>
+          <Popover.Body>No ice cream will actually be delivered</Popover.Body>
         </Popover>
       );
 
