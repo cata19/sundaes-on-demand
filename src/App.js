@@ -10,7 +10,6 @@ function App() {
       </OrderDetailsProvider>
         {/*confirmation page does not need provider*/}
     </Container>
-
   );
 }
 
