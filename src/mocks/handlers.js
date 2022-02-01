@@ -18,4 +18,11 @@ export const handlers = [
             ])
         );
     }),
+    rest.post('', (req, res, ctx) => {
+        return res(
+            ctx.json([
+
+            ])
+        );
+    }),
 ];
